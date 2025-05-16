@@ -36,4 +36,6 @@ Click on your profile picture.
 8.🔐 Firebase Integration
 *Each time a user signs in using their Gmail (Google) account, their digital identity is securely stored in Firebase Authentication.
 *This helps manage user sessions and identity management through Google OAuth.
+![image](https://github.com/user-attachments/assets/7aa53e0a-8981-438e-8133-b39917378a93)
+
 
